@@ -19,7 +19,7 @@ Dr. Love received his bachelor’s in mathematics in 2005 from Stanford Universi
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration](https://tinyurl.com/y4m948kd) In order to attend the event, please fill out [this form](https://tinyurl.com/y4m948kd).
+:point_right: [Registration :](https://tinyurl.com/y4m948kd) In order to attend the event, please fill out [this form](https://tinyurl.com/y4m948kd).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
