@@ -1,6 +1,30 @@
-Please find the list of the past events we've organized.
+## Upcoming event
+:date: Friday September 18, 2020 
+
+**Introduction to RNA-seq**
+
+We are excited to invite you to our R4Bioinfo series : Introduction to RNA-seq.
+During this workshop you'll go through this tutorial
+https://www.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
+
+Prerequisities :
+Basic knowledge of Bioconductor. We'll organize a session before the event to install all the required packages and introduce you to Bioconductor.
+
+Invited speaker:
+▶️ [Dr. Michael I. Love:](https://mikelove.github.io/) Assistant Professor of Biostatistics & Genetics at UNC-Chapel Hill. Maintains Bioconductor packages: DESeq2, tximport, tximeta, fishpond, alpine.
+About Dr. Michael I. Love:
+Dr. Love received his bachelor’s in mathematics in 2005 from Stanford University, his master’s in statistics in 2010 from Stanford University, and his Ph.D. in Computational Biology in 2013 from the Freie Universität Berlin. Dr. Love uses statistical models to infer biologically meaningful patterns from high-throughput sequencing data, and develops open-source statistical software for the Bioconductor Project.
+
+:alarm_clock: 5PM-6PM (GMT+1)
+
+:round_pushpin: Zoom platform
+
+:point_right: [Registration](https://tinyurl.com/y4m948kd) 
 
 ## Past events
+
+Please find the list of the past events we've organized.
+
 | Date  | Time  | Topic  | Type  | Trainer(s) | Moderator(s) | Place  | Workshop materials  |
 |---|---|---|---|---|---|---|---|
 | June 6, 2020 | 11AM - 12PM | Introduction to R | Workshop | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), Hédia Tnani, [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | [Nermine Ben Rich](https://www.linkedin.com/in/nermine-ben-rich-844173134/) | Zoom | [Slides, recording video, code](https://github.com/rladiestunis/1st-Meetup-Workshop-materials-Introdution-to-R) |
