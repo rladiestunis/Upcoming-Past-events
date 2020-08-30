@@ -23,11 +23,13 @@ Dr. Love received his bachelor’s in mathematics in 2005 from Stanford Universi
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
+:point_right: [More details](https://www.meetup.com/rladies-tunis/events/272898020/)
+
 ## Past events
 
 Please find the list of the past events we've organized.
 
-| Date  | Time  | Topic  | Type  | Trainer(s) | Moderator(s) | Place  | Workshop materials  |
+| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 | June 6, 2020 | 11AM - 12PM | Introduction to R | Workshop | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), Hédia Tnani, [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | [Nermine Ben Rich](https://www.linkedin.com/in/nermine-ben-rich-844173134/) | Zoom | [Slides, recording video, code](https://github.com/rladiestunis/1st-Meetup-Workshop-materials-Introdution-to-R) |
 | June 21, 2020 | 11AM - 1PM | Data Strcutures in R | Workshop | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), Hédia Tnani, [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | [Nermine Ben Rich](https://www.linkedin.com/in/nermine-ben-rich-844173134/) | Zoom | [Slides, code](https://github.com/rladiestunis/2nd-Meetup-Workshop-materials-Data-Structures-in-R) |
