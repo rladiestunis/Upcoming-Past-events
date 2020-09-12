@@ -25,10 +25,13 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 :point_right: [More details](https://www.meetup.com/rladies-tunis/events/272898020/)
 
-## Past events
+## Upcoming and Past events
 
-Please find the list of the past events we've organized.
+Please find the list of the events we organize.
 
+| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
+|---|---|---|---|---|---|---|---|
+| September 18, 2020 | 5AM - 6PM | Introduction to RNA-seq | Workshop | [Dr. Michael Love](https://mikelove.github.io/)| Dr. Hédia Tnani | Zoom | will be provided |
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 | June 6, 2020 | 11AM - 12PM | Introduction to R | Workshop | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), Dr. Hédia Tnani, [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | [Nermine Ben Rich](https://www.linkedin.com/in/nermine-ben-rich-844173134/) | Zoom | [Slides, recording video, code](https://github.com/rladiestunis/1st-Meetup-Workshop-materials-Introdution-to-R) |
