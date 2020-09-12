@@ -25,13 +25,14 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 :point_right: [More details](https://www.meetup.com/rladies-tunis/events/272898020/)
 
-## Upcoming and Past events
-
-Please find the list of the events we organize.
+## Upcoming events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| September 18, 2020 | 5AM - 6PM | Introduction to RNA-seq | Workshop | [Dr. Michael Love](https://mikelove.github.io/)| Dr. Hédia Tnani | Zoom | will be provided
+| September 18, 2020 | 5PM - 6PM | Introduction to RNA-seq | Workshop | [Dr. Michael Love](https://mikelove.github.io/)| Dr. Hédia Tnani | Zoom | will be provided |
+| September 30, 2020 | 5:30PM - 7:30PM | Introduction to Bioconductor Annotation Resources | Workshop | [Dr. Martin Morgan](https://github.com/mtmorgan)| Dr. Hédia Tnani | Zoom | will be provided  
+
+## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
