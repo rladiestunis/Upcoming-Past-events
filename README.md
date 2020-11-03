@@ -17,7 +17,7 @@ She studied physics and astronomy, finishing her PhD in 2005. She worked in acad
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://lnkd.in/dA_7akh) In order to attend the event, please fill out [this form](https://lnkd.in/dA_7akh).
+:point_right: [Registration :](https://lnkd.in/dA_7akh) In order to attend the event, please fill out [this Google form](https://lnkd.in/dA_7akh).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
