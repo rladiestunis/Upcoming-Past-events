@@ -1,9 +1,9 @@
 ## Upcoming events
 :date: Saturday, November 7, 2020 
 
-**Data Visualization for Machine Learning Practionners**
+**Data Visualization for Machine Learning Practitionners**
 
-We are delighted to come together with you to host another online meetup : Data Visualization for Machine Learning Practionners.
+We are delighted to come together with you to host another online meetup : Data Visualization for Machine Learning Practitionners.
 
 Invited speaker :
 
