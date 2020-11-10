@@ -27,7 +27,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| November 7, 2020 | 5PM - 6PM | Data Visualization for Machine Learning Practionners | Keynote talk | [Julia Silge](https://juliasilge.com/about/)| | Zoom | will be provided  
+| November 7, 2020 | 5PM - 6PM | Data Visualization for Machine Learning Practitionners | Keynote talk | [Julia Silge](https://juliasilge.com/about/)| | Zoom | will be provided  
 
 ## Past events
 
