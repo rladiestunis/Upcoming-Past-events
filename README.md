@@ -1,5 +1,5 @@
 ## Upcoming events
-:date: Saturday, November 13, 2020 
+:date: Friday, November 13, 2020 
 
 **Statistical Analysis Tools of Complex Time-Series Data**
 
