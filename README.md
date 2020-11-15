@@ -8,13 +8,14 @@ We are delighted to come together with you to host another online meetup : Stati
 ▶️ Invited speaker : Pr. Faïcel Chamroukhi
 
 ▶️ About Pr. Faïcel Chamroukhi https://chamroukhi.com :
+
 Faïcel Chamroukhi is Professor of Statistics & Data Science in Caen, currently Adjunct Visiting Professor at La Trobe University and has been Assistant and Associate Professor of Computer Science and Machine Learning in Paris 13 and Toulon. He is broadly interested in the mathematical and algorithmic foundations of data science and AI, with a keen focus on modern statistics and machine learning. Common threads of his research include statistical modeling and inference, latent variable models, and learning in high-dimensional and large-scale scenario.
 
 :alarm_clock: 6:30PM - 8PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://tinyurl.com/y68xrv4c) In order to attend the event, please fill out [this Google form](https://lnkd.in/dA_7akh).
+:point_right: [Registration :](https://tinyurl.com/y68xrv4c) In order to attend the event, please fill out [this Google form](https://tinyurl.com/y68xrv4c).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
@@ -24,7 +25,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| November 7, 2020 | 5PM - 6PM | Data Visualization for Machine Learning Practitionners | Keynote talk | [Julia Silge](https://juliasilge.com/about/)| | Zoom | will be provided  
+| November 13, 2020 | 6:30PM - 8PM | Statistical Analysis Tools of Complex Time-Series Data | Webinar | [Pr. Faïcel Chamroukhi](https://chamroukhi.com)| | Zoom | will be provided  
 
 ## Past events
 
