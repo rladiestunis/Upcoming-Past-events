@@ -1,31 +1,33 @@
 ## Upcoming events
-:date: Friday, November 13, 2020 
+:date: Friday, January 08, 2021 
 
-**Statistical Analysis Tools of Complex Time-Series Data**
+**Tiyding Up Messy Data**
 
-We are delighted to come together with you to host another online meetup : Statistical Analysis Tools of Complex Time-Series Data.
+We are pleased to invite you to our next meetup : Tiyding Up Messy Data.
 
-▶️ Invited speaker : Pr. Faïcel Chamroukhi
+Data cleaning has always been a challenging task for every data scientist. Tidy Data is a way of structuring datasets to facilitate analysis. During the workship, you will learn about how to organize messy datasets in an efficient manner. The workshop will cover a live coding.
 
-▶️ About Pr. Faïcel Chamroukhi https://chamroukhi.com :
+▶️ Invited trainer : Dr. Bruno Grande
 
-Faïcel Chamroukhi is Professor of Statistics & Data Science in Caen, currently Adjunct Visiting Professor at La Trobe University and has been Assistant and Associate Professor of Computer Science and Machine Learning in Paris 13 and Toulon. He is broadly interested in the mathematical and algorithmic foundations of data science and AI, with a keen focus on modern statistics and machine learning. Common threads of his research include statistical modeling and inference, latent variable models, and learning in high-dimensional and large-scale scenario.
+▶️ About Dr. Bruno Grande https://www.linkedin.com/in/brunograndephd/
 
-:alarm_clock: 6:30PM - 8PM (GMT+1)
+Dr. Bruno Grande (he/him) has been training others in the ways of modern R programming since 2015. With a PhD in bioinformatics, he learned (the hard way) how to leverage the tidyverse toolbox to efficiently transform, analyze, and visualize data ranging from messy to tidy. As a Carpentries- and RStudio-certified trainer, he wishes to empower the next generation of researchers and professionals with the same data science skills that continue to bolster his career. He’s currently promoting and implementing best practices in open science as a Bioinformatics Engineer at Sage Bionetworks in Seattle, WA.
+
+:alarm_clock: 5:30PM - 8PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://tinyurl.com/y68xrv4c) In order to attend the event, please fill out [this Google form](https://tinyurl.com/y68xrv4c).
+:point_right: [Registration :](https://tinyurl.com/ycfbhmxb) In order to attend the event, please fill out [this Google form](https://tinyurl.com/ycfbhmxb).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/rladies-tunis/events/274488421/)
+:point_right: [More details](https://www.meetup.com/rladies-tunis/events/275361735/)
 
 ## Upcoming events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| November 13, 2020 | 6:30PM - 8PM | Statistical Analysis Tools of Complex Time-Series Data | Webinar | [Pr. Faïcel Chamroukhi](https://chamroukhi.com)| | Zoom | will be provided  
+| January 08, 2021 | 6:30PM - 8PM | Tidying Up Messy Data | Workshop | [Dr. Bruno Grande]| | Zoom | will be provided  
 
 ## Past events
 
@@ -46,7 +48,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 | November 7, 2020 | 5PM - 6PM | Data Visualization for Machine Learning Practitionners | Webinar | [Julia Silge](https://juliasilge.com/)| [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/) | Zoom | [Recording video](https://www.youtube.com/watch?v=GcYBqm86Th8), [Slides](https://drive.google.com/file/d/1wXUILFN1i-PtOsAvmc702V9UY05tLOdo/view) |
 | November 13, 2020 | 6:30PM - 8PM | Statistical Analysis Tools of Complex Time-Series Data | Webinar | [Pr. Faïcel Chamroukhi](https://chamroukhi.com)| | Zoom | [Recording video](https://www.youtube.com/watch?v=w5KObYagyaM&t=561s), [Slides](https://chamroukhi.com/Talks/FChamroukhi-RLadiesTN-nov2020.pdf) |
 | November 25, 2020 | 7PM - 8PM | Introduction to the Tidymodels R Package | Workshop | [Bilikisu W. Aderinto](https://www.linkedin.com/in/bilikisuaderinto/)| | Zoom | [Recording video](https://www.youtube.com/watch?v=xgoTODyheRg&t=11s), [Demo](https://github.com/BAderinto/Tidymodels-package-in-R) |
-| December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | [Indrajeet Patil](https://www.linkedin.com/in/bilikisuaderinto/)| | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view) [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
+| December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | [Dr. Tatiana Tatarinova] | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view), [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
 | December 15, 2020 | 7PM - 8PM | Overview of the ‘ggstatsplot’ R package | Webinar | [Indrajeet Patil](https://www.linkedin.com/in/bilikisuaderinto/)| | Google Meet | [Recording video](https://www.youtube.com/watch?v=-Bau5f2RfPE&t=2s), [Slides](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#1) |
 
 
