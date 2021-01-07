@@ -1,9 +1,9 @@
 ## Upcoming events
-:date: Friday, January 08, 2021 
+:date: Friday, January 8, 2021 
 
-**Tiyding Up Messy Data**
+**Tidying Up Messy Data**
 
-We are pleased to invite you to our next meetup : Tiyding Up Messy Data.
+We are pleased to invite you to our next meetup : Tidying Up Messy Data.
 
 Data cleaning has always been a challenging task for every data scientist. Tidy Data is a way of structuring datasets to facilitate analysis. During the workship, you will learn about how to organize messy datasets in an efficient manner. The workshop will cover a live coding.
 
@@ -48,7 +48,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 | November 7, 2020 | 5PM - 6PM | Data Visualization for Machine Learning Practitionners | Webinar | [Julia Silge](https://juliasilge.com/)| [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/) | Zoom | [Recording video](https://www.youtube.com/watch?v=GcYBqm86Th8), [Slides](https://drive.google.com/file/d/1wXUILFN1i-PtOsAvmc702V9UY05tLOdo/view) |
 | November 13, 2020 | 6:30PM - 8PM | Statistical Analysis Tools of Complex Time-Series Data | Webinar | [Pr. Faïcel Chamroukhi](https://chamroukhi.com)|[Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | Zoom | [Recording video](https://www.youtube.com/watch?v=w5KObYagyaM&t=561s), [Slides](https://chamroukhi.com/Talks/FChamroukhi-RLadiesTN-nov2020.pdf) |
 | November 25, 2020 | 7PM - 8PM | Introduction to the Tidymodels R Package | Workshop | [Bilikisu W. Aderinto](https://www.linkedin.com/in/bilikisuaderinto/)| [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/) | Zoom | [Recording video](https://www.youtube.com/watch?v=xgoTODyheRg&t=11s), [Demo](https://github.com/BAderinto/Tidymodels-package-in-R) |
-| December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | [Dr. Tatiana Tatarinova] | [Dr. Hédia Tnani](https://github.com/htnani) | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view), [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
+| December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | Dr. Tatiana Tatarinova | [Dr. Hédia Tnani](https://github.com/htnani) | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view), [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
 | December 15, 2020 | 7PM - 8PM | Overview of the ‘ggstatsplot’ R package | Webinar | [Indrajeet Patil](https://www.linkedin.com/in/bilikisuaderinto/)| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | Google Meet | [Recording video](https://www.youtube.com/watch?v=-Bau5f2RfPE&t=2s), [Slides](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#1) |
 
 
