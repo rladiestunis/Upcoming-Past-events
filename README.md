@@ -5,7 +5,7 @@
 
 We are pleased to invite you to our next meetup : aRt + ggplot: exploring radial visualizations.
 
-ggplot2 is a package for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+We're kicking off the year in style, with two exciting happenings rolled into one - we get to hang out with R-Ladies Johannesburg (https://twitter.com/RLadiesJozi) as we co-host the event. ggplot2 is a package for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
 
 ▶️ Invited trainer : Ijeamaka Anyene
 
@@ -18,7 +18,7 @@ Check out her aRt at her website (https://ijeamaka-anyene.netlify.app/), or at h
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://tinyurl.com/ycfbhmxb) In order to attend the event, please fill out [this Google form](https://tinyurl.com/ycfbhmxb).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/) In order to attend the event, please fill out [this meetup link](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
