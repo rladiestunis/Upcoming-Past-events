@@ -18,7 +18,7 @@ Check out her aRt at her website (https://ijeamaka-anyene.netlify.app/), or at h
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/) In order to attend the event, please fill out [this meetup link](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/) In order to attend the event, please register on [the meetup group](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
@@ -52,4 +52,4 @@ Those who fill out the form will receive an email shortly with instructions on h
 | November 25, 2020 | 7PM - 8PM | Introduction to the Tidymodels R Package | Workshop | [Bilikisu W. Aderinto](https://www.linkedin.com/in/bilikisuaderinto/)| [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/) | Zoom | [Recording video](https://www.youtube.com/watch?v=xgoTODyheRg&t=11s), [Demo](https://github.com/BAderinto/Tidymodels-package-in-R) |
 | December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | Dr. Tatiana Tatarinova | [Dr. Hédia Tnani](https://github.com/htnani) | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view), [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
 | December 15, 2020 | 7PM - 8PM | Overview of the ‘ggstatsplot’ R package | Webinar | [Indrajeet Patil](https://www.linkedin.com/in/bilikisuaderinto/)| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | Google Meet | [Recording video](https://www.youtube.com/watch?v=-Bau5f2RfPE&t=2s), [Slides](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#1) |
-| January 08, 2021 | 6:30PM - 8PM | Tidying Up Messy Data | Workshop |[Dr. Bruno Grande](https://www.linkedin.com/in/brunograndephd/) | [Kaouthar Driss](https://www.linkedin.com/in/kaouthar-driss-889756143/) | Zoom |[Recording video], [Slides] |
+| January 08, 2021 | 6:30PM - 8PM | Tidying Up Messy Data | Workshop |[Dr. Bruno Grande](https://www.linkedin.com/in/brunograndephd/) | [Kaouthar Driss](https://www.linkedin.com/in/kaouthar-driss-889756143/) | Zoom |[Recording video](https://www.youtube.com/watch?v=Frk5KUBcVds&feature=youtu.be), [Demo](https://bgrande.shinyapps.io/2021-01-08-rladies-tunis/), [Code](https://github.com/BrunoGrandePhD/2020-11-14-rladies-workshop/tree/rladies-tunis) |
