@@ -27,7 +27,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| January 08, 2021 | 6:30PM - 8PM | Tidying Up Messy Data | Workshop | Dr. Bruno Grande | Zoom | will be provided  
+| January 14, 2021 | 6PM - 8PM | aRt + ggplot: exploring radial visualizations | Workshop | Ijeamaka Anyene | |Zoom | will be provided  
 
 ## Past events
 
