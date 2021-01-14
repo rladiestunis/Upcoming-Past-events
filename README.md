@@ -1,19 +1,20 @@
 ## Upcoming events
-:date: Friday, January 8, 2021 
+:date: Thursday, January 8, 2021 
 
-**Tidying Up Messy Data**
+**aRt + ggplot: exploring radial visualizations**
 
-We are pleased to invite you to our next meetup : Tidying Up Messy Data.
+We are pleased to invite you to our next meetup : aRt + ggplot: exploring radial visualizations.
 
-Data cleaning has always been a challenging task for every data scientist. Tidy Data is a way of structuring datasets to facilitate analysis. During the workship, you will learn about how to organize messy datasets in an efficient manner. The workshop will cover a live coding.
+ggplot2 is a package for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
 
-▶️ Invited trainer : Dr. Bruno Grande
+▶️ Invited trainer : Ijeamaka Anyene
 
-▶️ About Dr. Bruno Grande https://www.linkedin.com/in/brunograndephd/
+▶️ About Ijeamaka Anyene https://ijeamaka-anyene.netlify.app/
 
-Dr. Bruno Grande (he/him) has been training others in the ways of modern R programming since 2015. With a PhD in bioinformatics, he learned (the hard way) how to leverage the tidyverse toolbox to efficiently transform, analyze, and visualize data ranging from messy to tidy. As a Carpentries- and RStudio-certified trainer, he wishes to empower the next generation of researchers and professionals with the same data science skills that continue to bolster his career. He’s currently promoting and implementing best practices in open science as a Bioinformatics Engineer at Sage Bionetworks in Seattle, WA.
+Ijeamaka is a data analyst working in healthcare research. She specializes in using R and SAS for data analysis, epidemiological research, and data visualizations.
+Check out her aRt at her website (https://ijeamaka-anyene.netlify.app/), or at her Twitter handle (https://twitter.com/ijeamaka_a). Besides her aRt, she does some amazing TidyTuesday data visualisations as well!
 
-:alarm_clock: 5:30PM - 8PM (GMT+1)
+:alarm_clock: 6PM - 8PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
@@ -21,7 +22,7 @@ Dr. Bruno Grande (he/him) has been training others in the ways of modern R progr
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/rladies-tunis/events/275361735/)
+:point_right: [More details](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/)
 
 ## Upcoming events
 
