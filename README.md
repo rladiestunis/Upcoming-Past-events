@@ -28,6 +28,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 | January 14, 2021 | 6PM - 8PM | aRt + ggplot: exploring radial visualizations | Workshop | Ijeamaka Anyene | |Zoom | will be provided  
+| January 16, 2021 | 3PM - 5PM | Web Scraping in R | Workshop | Riva Quiroga Dr. Mohamed El Fodil Ihaddaden | |Zoom | will be provided  
 
 ## Past events
 
