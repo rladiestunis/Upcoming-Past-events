@@ -1,5 +1,5 @@
 ## Upcoming events
-:date: Thursday, January 8, 2021 
+:date: Thursday, January 14, 2021 
 
 **aRt + ggplot: exploring radial visualizations**
 
