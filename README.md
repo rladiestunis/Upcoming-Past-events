@@ -1,4 +1,4 @@
-## Upcoming events
+## Upcoming meetups
 :date: Thursday, January 14, 2021 
 
 **aRt + ggplot: exploring radial visualizations**
@@ -28,7 +28,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| January 16, 2021 | 3PM - 5PM | Web Scraping in R | Workshop | Riva Quiroga, Dr. Mohamed El Fodil Ihaddaden | |Zoom | will be provided  
+| January 16, 2021 | 3PM - 5PM | Web Scraping in R | Workshop | [Riva Quiroga](https://rivaquiroga.cl/), [Dr. Mohamed El Fodil Ihaddaden](https://ihaddadenfodil.com/) | [Mouna Belaid](https://mounabelaid.netlify.app/) and [ESSAI Junior Entreprise team](https://www.facebook.com/Essai.Junior.Entreprise)|Zoom | will be provided  
 
 ## Past events
 
@@ -52,4 +52,4 @@ Those who fill out the form will receive an email shortly with instructions on h
 | December 12, 2020 | 5PM - 7PM | Introduction to Genome-Wide Association Studies (GWAS) | Webinar | Dr. Tatiana Tatarinova | [Dr. Hédia Tnani](https://github.com/htnani) | Zoom | [Recording video](https://www.youtube.com/watch?v=n-sXeshyVRI), [Slides](https://drive.google.com/file/d/1dM5dZrACdk0SD9kTOzgF399sx6CjTG6X/view), [Code](https://github.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-GWAS) |
 | December 15, 2020 | 7PM - 8PM | Overview of the ‘ggstatsplot’ R package | Webinar | [Indrajeet Patil](https://www.linkedin.com/in/bilikisuaderinto/)| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) | Google Meet | [Recording video](https://www.youtube.com/watch?v=-Bau5f2RfPE&t=2s), [Slides](https://indrajeetpatil.github.io/ggstatsplot_slides/slides/ggstatsplot_presentation.html#1) |
 | January 08, 2021 | 6:30PM - 8PM | Tidying Up Messy Data | Workshop |[Dr. Bruno Grande](https://www.linkedin.com/in/brunograndephd/) | [Kaouthar Driss](https://www.linkedin.com/in/kaouthar-driss-889756143/) | Zoom |[Recording video](https://www.youtube.com/watch?v=Frk5KUBcVds&feature=youtu.be), [Demo](https://bgrande.shinyapps.io/2021-01-08-rladies-tunis/), [Code](https://github.com/BrunoGrandePhD/2020-11-14-rladies-workshop/tree/rladies-tunis) |
-| January 14, 2021 | 6PM - 8PM | aRt + ggplot: exploring radial visualizations | Workshop | [Ijeamaka Anyene](https://ijeamaka-anyene.netlify.app/) |[Vebashini Naidoo](https://www.linkedin.com/in/vebashini-naidoo-4260a96a/) |Zoom | [Recording video],[Demo],[Code]
+| January 14, 2021 | 6PM - 8PM | aRt + ggplot: exploring radial visualizations | Workshop | [Ijeamaka Anyene](https://ijeamaka-anyene.netlify.app/) |[Vebashini Naidoo](https://www.linkedin.com/in/vebashini-naidoo-4260a96a/) |Zoom | will be provided
