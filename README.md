@@ -5,7 +5,7 @@
 
 We are pleased to invite you to our next meetup : Web Scraping in R.
 
-R-Ladies Tunis and ESSAI Junior Entreprise are partnering up and are organizing a training session about Web Scraping in R (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting Riva Quiroga (https://rivaquiroga.cl/) and Dr. Mohamed El Fodil Ihaddaden (https://ihaddadenfodil.com/).
+**R-Ladies Tunis** and **ESSAI Junior Entreprise** are partnering up and are organizing a training session about **Web Scraping in R** (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting **Riva Quiroga** (https://rivaquiroga.cl/) and **Dr. Mohamed El Fodil Ihaddaden** (https://ihaddadenfodil.com/).
 Riva Quiroga will show us an example of creating a function to scrape many pages of a website, and another about scraping tables using the R package rvest. She will also showcase how to use RegEx to clean the data. There will be a live coding under the programming language R.
 Dr. Mohamed El Fodil Ihaddaden will introduce his R package "ralger" to us. This package aims to make it easier to scrape a website (https://github.com/feddelegrand7/ralger)
 
