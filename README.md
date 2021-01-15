@@ -18,7 +18,7 @@ Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor 
 Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
 
 
-:alarm_clock: 5:30PM - 8PM (GMT+1)
+:alarm_clock: 3PM - 5:30PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
