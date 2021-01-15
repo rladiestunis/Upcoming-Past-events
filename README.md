@@ -5,16 +5,16 @@
 
 We are pleased to invite you to our next meetup : Web Scraping in R.
 
-**R-Ladies Tunis** and **ESSAI Junior Entreprise** are partnering up and are organizing a training session about **Web Scraping in R** (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting **Riva Quiroga** (https://rivaquiroga.cl/) and **Dr. Mohamed El Fodil Ihaddaden** (https://ihaddadenfodil.com/).
+**R-Ladies Tunis** and **ESSAI Junior Entreprise** are partnering up and are organizing a training session about **Web Scraping in R** (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting [**Riva Quiroga**](https://rivaquiroga.cl/) and [**Dr. Mohamed El Fodil Ihaddaden**](https://ihaddadenfodil.com/).
 Riva Quiroga will show us an example of creating a function to scrape many pages of a website, and another about scraping tables using the R package rvest. She will also showcase how to use RegEx to clean the data. There will be a live coding under the programming language R.
 Dr. Mohamed El Fodil Ihaddaden will introduce his R package "ralger" to us. This package aims to make it easier to scrape a website (https://github.com/feddelegrand7/ralger)
 
 ▶️ Invited trainers : Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden
 
-▶️ About [Riva Quiroga )(https://rivaquiroga.cl/):
+▶️ About [Riva Quiroga](https://rivaquiroga.cl/):
 Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
-▶️ About Dr. [Mohamed El Fodil Ihaddaden )(https://ihaddadenfodil.com/):
+▶️ About Dr. [Mohamed El Fodil Ihaddaden](https://ihaddadenfodil.com/):
 Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
 
 
