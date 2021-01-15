@@ -1,7 +1,7 @@
 ## Upcoming meetups
 :date: Saturday, January 16, 2021 
 
-**Web Scraping in R**
+***Web Scraping in R***
 
 We are pleased to invite you to our next meetup : Web Scraping in R.
 
