@@ -1,28 +1,32 @@
 ## Upcoming meetups
-:date: Thursday, January 14, 2021 
+:date: Saturday, January 16, 2021 
 
-**aRt + ggplot: exploring radial visualizations**
+**Web Scraping in R**
 
-We are pleased to invite you to our next meetup : aRt + ggplot: exploring radial visualizations.
+We are pleased to invite you to our next meetup : Web Scraping in R.
 
-We're kicking off the year in style, with two exciting happenings rolled into one - we get to hang out with R-Ladies Johannesburg (https://twitter.com/RLadiesJozi) as we (https://twitter.com/RLadiesTunis) co-host the event. ggplot2 is a package for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+R-Ladies Tunis and ESSAI Junior Entreprise are partnering up and are organizing a training session about [Web Scraping in R] (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting [Riva Quiroga] (https://rivaquiroga.cl/) and [Dr. Mohamed El Fodil Ihaddaden] (https://ihaddadenfodil.com/).
+Riva Quiroga will show us an example of creating a function to scrape many pages of a website, and another about scraping tables using the R package rvest. She will also showcase how to use RegEx to clean the data. There will be a live coding under the programming language R.
+Dr. Mohamed El Fodil Ihaddaden will introduce his R package "ralger" to us. This package aims to make it easier to scrape a [website] (https://github.com/feddelegrand7/ralger)
 
-▶️ Invited trainer : Ijeamaka Anyene
+▶️ Invited trainers : Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden
 
-▶️ About Ijeamaka Anyene https://ijeamaka-anyene.netlify.app/
+▶️ About [Riva Quiroga] (https://rivaquiroga.cl/)
+Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
-Ijeamaka is a data analyst working in healthcare research. She specializes in using R and SAS for data analysis, epidemiological research, and data visualizations.
-Check out her aRt at her website (https://ijeamaka-anyene.netlify.app/), or at her Twitter handle (https://twitter.com/ijeamaka_a). Besides her aRt, she does some amazing TidyTuesday data visualisations as well!
+▶️ About [Dr. Mohamed El Fodil Ihaddaden] (https://ihaddadenfodil.com/)
+Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
 
-:alarm_clock: 6PM - 8PM (GMT+1)
+
+:alarm_clock: 5:30PM - 8PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/) In order to attend the event, please register on [the meetup group](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/) In order to attend the event, please register on [the meetup group](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/fr-FR/rladies-johannesburg/events/275688613/)
+:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/)
 
 ## Upcoming events
 
