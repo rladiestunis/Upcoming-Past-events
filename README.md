@@ -29,7 +29,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 | January 16, 2021 | 3PM - 5:30PM | Web Scraping in R | Workshop | [Riva Quiroga](https://rivaquiroga.cl/), [Dr. Mohamed El Fodil Ihaddaden](https://ihaddadenfodil.com/) | [Mouna Belaid](https://mounabelaid.netlify.app/) and [ESSAI Junior Entreprise team](https://www.facebook.com/Essai.Junior.Entreprise)|Zoom | will be provided  
-| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Daniel Lundin](https://github.com/erikrikarddaniel)| |Zoom | will be provided  
+| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
