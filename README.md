@@ -11,10 +11,10 @@ Dr. Mohamed El Fodil Ihaddaden will introduce his R package "ralger" to us. This
 
 ▶️ Invited trainers : Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden
 
-▶️ About Riva Quiroga (https://rivaquiroga.cl/)
+▶️ About [Riva Quiroga] (https://rivaquiroga.cl/):
 Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
-▶️ About Dr. Mohamed El Fodil Ihaddaden (https://ihaddadenfodil.com/)
+▶️ About [Dr. Mohamed El Fodil Ihaddaden] (https://ihaddadenfodil.com/):
 Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
 
 
