@@ -11,10 +11,10 @@ Dr. Mohamed El Fodil Ihaddaden will introduce his R package "ralger" to us. This
 
 ▶️ Invited trainers : Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden
 
-▶️ About Riva Quiroga (https://rivaquiroga.cl/):
+▶️ About [Riva Quiroga )(https://rivaquiroga.cl/):
 Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
-▶️ About Dr. Mohamed El Fodil Ihaddaden (https://ihaddadenfodil.com/):
+▶️ About Dr. [Mohamed El Fodil Ihaddaden )(https://ihaddadenfodil.com/):
 Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
 
 
@@ -22,7 +22,7 @@ Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. 
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/) In order to attend the event, please register on [the meetup group](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/) In order to attend the event, please fill out this [Google form](https://docs.google.com/forms/d/17CLM24dWtiqtpChVQpPOr0OahasVXs9gpu-idXTilGw/edit).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
@@ -33,7 +33,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
 | January 16, 2021 | 3PM - 5:30PM | Web Scraping in R | Workshop | [Riva Quiroga](https://rivaquiroga.cl/), [Dr. Mohamed El Fodil Ihaddaden](https://ihaddadenfodil.com/) | [Mouna Belaid](https://mounabelaid.netlify.app/) and [ESSAI Junior Entreprise team](https://www.facebook.com/Essai.Junior.Entreprise)|Zoom | will be provided  
-| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| |Zoom | will be provided  
+| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| [Dr. Hédia Tnani](https://github.com/htnani) |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
