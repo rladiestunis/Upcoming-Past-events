@@ -9,7 +9,7 @@ We are delighted to get back to the **_R4Bioinfo_** series that we've launched i
 
 ▶️ Invited trainer : Dr. Daniel Lundin
 
-▶️ About [Daniel Lundin](https://www.researchgate.net/profile/Daniel_Lundin):
+▶️ About [Dr. Daniel Lundin](https://www.researchgate.net/profile/Daniel_Lundin):
 Daniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.
 
 
@@ -27,7 +27,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| [Dr. Hédia Tnani](https://github.com/htnani) |Zoom | will be provided  
+| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Dr. Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| [Dr. Hédia Tnani](https://github.com/htnani) |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
