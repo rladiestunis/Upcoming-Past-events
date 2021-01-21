@@ -1,32 +1,27 @@
 ## Upcoming meetups
-:date: Saturday, January 16, 2021 
+:date: Friday, January 22, 2021 
 
-***Web Scraping in R***
+### ***Introduction to Metagenomics using Tidyverse***
 
-We are pleased to invite you to our next meetup : Web Scraping in R.
+We are pleased to invite you to our next meetup : Introduction to Metagenomics using Tidyverse.
 
-**R-Ladies Tunis** and **ESSAI Junior Entreprise** are partnering up and are organizing a training session about **Web Scraping in R** (https://www.meetup.com/rladies-tunis/events/275674664/). We will be hosting [**Riva Quiroga**](https://rivaquiroga.cl/) and [**Dr. Mohamed El Fodil Ihaddaden**](https://ihaddadenfodil.com/).
-Riva Quiroga will show us an example of creating a function to scrape many pages of a website, and another about scraping tables using the R package rvest. She will also showcase how to use RegEx to clean the data. There will be a live coding under the programming language R.
-Dr. Mohamed El Fodil Ihaddaden will introduce his R package ["ralger"](https://github.com/feddelegrand7/ralger) to us. This package aims to make it easier to scrape a website.
+We are delighted to get back to the #R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to #metagenomics using [#tidyverse] (https://www.meetup.com/rladies-tunis/events/275770031/)
 
-▶️ Invited trainers : Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden
+▶️ Invited trainers : Daniel Lundin
 
-▶️ About [Riva Quiroga](https://rivaquiroga.cl/):
-Riva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
-
-▶️ About Dr. [Mohamed El Fodil Ihaddaden](https://ihaddadenfodil.com/):
-Dr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.
+▶️ About [Daniel Lundin](https://rivaquiroga.cl/):
+Daniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.
 
 
-:alarm_clock: 3PM - 5:30PM (GMT+1)
+:alarm_clock: 5:30PM - 8PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/) In order to attend the event, please fill out this [Google form](https://docs.google.com/forms/d/17CLM24dWtiqtpChVQpPOr0OahasVXs9gpu-idXTilGw/edit).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275770031/) In order to attend the event, please fill out this [Google form](https://tinyurl.com/y4mkcpju).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275674664/)
+:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275770031/)
 
 ## Upcoming events
 
