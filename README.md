@@ -5,10 +5,9 @@
 
 We are pleased to invite you to our next meetup : Introduction to Metagenomics using Tidyverse.
 
-We are delighted to get back to the #R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to #metagenomics using [#tidyverse] 
-(https://www.meetup.com/rladies-tunis/events/275770031/)
+We are delighted to get back to the **_R4Bioinfo_** series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to **_metagenomics_** using [tidyverse](https://www.meetup.com/rladies-tunis/events/275770031/)
 
-▶️ Invited trainers : Daniel Lundin
+▶️ Invited trainer : Daniel Lundin
 
 ▶️ About [Daniel Lundin](https://github.com/erikrikarddaniel):
 Daniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.
