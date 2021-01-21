@@ -10,7 +10,7 @@ We are delighted to get back to the #R4Bioinfo series that we've launched in Sep
 
 ▶️ Invited trainers : Daniel Lundin
 
-▶️ About [Daniel Lundin](https://rivaquiroga.cl/):
+▶️ About [Daniel Lundin](https://github.com/erikrikarddaniel):
 Daniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.
 
 
