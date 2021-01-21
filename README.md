@@ -5,7 +5,7 @@
 
 We are pleased to invite you to our next meetup : Introduction to Metagenomics using Tidyverse.
 
-We are delighted to get back to the **_R4Bioinfo_** series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to **_metagenomics_** using [tidyverse](https://www.meetup.com/rladies-tunis/events/275770031/)
+We are delighted to get back to the **_R4Bioinfo_** series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to **_metagenomics_** using [tidyverse](https://www.tidyverse.org/)
 
 ▶️ Invited trainer : Daniel Lundin
 
