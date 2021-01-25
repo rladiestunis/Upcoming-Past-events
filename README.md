@@ -1,27 +1,29 @@
 ## Upcoming meetups
-:date: Friday, January 22, 2021 
+:date: Saturday, January 30, 2021 
 
-### ***Introduction to Metagenomics using Tidyverse***
+### ***Getting the most out of text - Using supervised & unsupervised approaches in NLP***
 
-We are pleased to invite you to our next meetup : Introduction to Metagenomics using Tidyverse.
+We are excited to welcome you during a workshop which aims to get the most out of text -- Using supervised and unsupervised approaches in NLP.
 
-We are delighted to get back to the **_R4Bioinfo_** series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to **_metagenomics_** using [tidyverse](https://www.tidyverse.org/)
+We're starting the year with an exceptional online session, and collaborating with the Facebook Developer Circles, a network of developers in Tunis and its surroundings who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests https://www.facebook.com/groups/DevCTunis
+Text data provides an oasis of information for both researchers and non-researchers alike to explore. Natural Language Processing (NLP) helps to make sense of this data type.
+The talk will give you a smooth introduction to the quanteda #R package (https://quanteda.io/).
 
-▶️ Invited trainer : Dr. Daniel Lundin
+▶️ Invited trainer : Cosima Meyer
 
-▶️ About [Dr. Daniel Lundin](https://www.researchgate.net/profile/Daniel_Lundin):
-Daniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.
+▶️ About [Cosima Meyer] (cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover.
+When she is not blogging about data science-related content on [Methods Bites](https://bit.ly/methods-bites), Cosima maintains the R package [overviewR](https://bit.ly/overviewR).
 
 
-:alarm_clock: 5:30PM - 8PM (GMT+1)
+:alarm_clock: 5PM - 7PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275770031/) In order to attend the event, please fill out this [Google form](https://tinyurl.com/y4mkcpju).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275784778/) In order to attend the event, please fill out this [Google form](https://tinyurl.com/y3a9ac3l).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275770031/)
+:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275784778/)
 
 ## Upcoming events
 
