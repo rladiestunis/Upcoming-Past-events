@@ -27,7 +27,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| January 22, 2021 | 5:30PM - 8PM | Introduction to metagenomics using tidyverse | Workshop | [Dr. Daniel Lundin](https://www.su.se/profiles/dlund-1.194119)| [Dr. Hédia Tnani](https://github.com/htnani) |Zoom | will be provided  
+| January 30, 2021 | 5PM - 7PM | Getting the most out of text - Using supervised & unsupervised approaches in NLP | Workshop | [Cosima Meyer](https://cosimameyer.rbind.io/)| [Dr. Hédia Tnani](https://github.com/htnani) |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
