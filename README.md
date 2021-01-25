@@ -5,13 +5,13 @@
 
 We are excited to welcome you during a workshop which aims to get the most out of text -- Using supervised and unsupervised approaches in NLP.
 
-We're starting the year with an exceptional online session, and collaborating with the Facebook Developer Circles, a network of developers in Tunis and its surroundings who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests https://www.facebook.com/groups/DevCTunis
+We're starting the year with an exceptional online session, and collaborating with the Facebook Developer Circles, a network of developers in Tunis and its surroundings who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests (https://www.facebook.com/groups/DevCTunis)
 Text data provides an oasis of information for both researchers and non-researchers alike to explore. Natural Language Processing (NLP) helps to make sense of this data type.
-The talk will give you a smooth introduction to the quanteda #R package (https://quanteda.io/).
+The talk will give you a smooth introduction to the [quanteda #R package](https://quanteda.io/).
 
 ▶️ Invited trainer : Cosima Meyer
 
-▶️ About [Cosima Meyer] (cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover.
+▶️ About [Cosima Meyer](cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover.
 When she is not blogging about data science-related content on [Methods Bites](https://bit.ly/methods-bites), Cosima maintains the R package [overviewR](https://bit.ly/overviewR).
 
 
