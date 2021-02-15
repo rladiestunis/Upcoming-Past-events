@@ -28,7 +28,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| February 13, 2021 | 4PM - 6PM | Explore tidyverse with the funny MonsteRs | Workshop | [Dr. Allison Horst](https://www.allisonhorst.com/)| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) |Zoom | will be provided  
+| February 20, 2021 | 6PM - 7PM | Using R and a Raspberry Pi to automate social media data collection | Workshop | [Friedrike Preu]| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
