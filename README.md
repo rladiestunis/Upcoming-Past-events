@@ -1,28 +1,27 @@
 ## Upcoming meetups
-:date: Saturday, January 30, 2021 
+:date: Saturday, February 20, 2021 
 
-### ***Getting the most out of text - Using supervised & unsupervised approaches in NLP***
+### ***Using R and a Raspberry Pi to automate social media data collection***
 
-We are excited to welcome you during a workshop which aims to get the most out of text -- Using supervised and unsupervised approaches in NLP.
+We are pleased to invite you to our next meetup : Using R and a Raspberry Pi to automate social media data collection.
 
-We're starting the year with an exceptional online session, and collaborating with the Facebook Developer Circles, a network of developers in Tunis and its surroundings who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests (https://www.facebook.com/groups/DevCTunis). Text data provides an oasis of information for both researchers and non-researchers alike to explore. Natural Language Processing (NLP) helps to make sense of this data type.
-The talk will give you a smooth introduction to the [quanteda #R package](https://quanteda.io/).
+Often when collecting data, we want to do so on a recurring basis. But how? Especially when starting out with (R) programming, this can be a complex challenge as sentences like "just set up a EC2 instance" are thrown at you without much context. In my talk, I will take you along my personal learning journey over the course of the past 3.5 years and three solution approaches: from a hacky R script on a Raspberry Pi (a mini computer) to a Python-solution in "the cloud" back to an improved R/Raspberry Pi version. In the process, I'll cycle back to fundamental tools/concepts like CRON that are central to automation.
 
-▶️ Invited trainer : Cosima Meyer
+▶️ Invited trainer : Friedrike Preu
 
-▶️ About [Cosima Meyer](cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover.
-When she is not blogging about data science-related content on [Methods Bites](https://bit.ly/methods-bites), Cosima maintains the R package [overviewR](https://bit.ly/overviewR).
+▶️ About Friedrike Preu is a data4gooder, data scientist and IT person. Right now, she is working full-time for Data4Good network CorrelAid for which she has been volunteering since its beginnings in 2015. There, she is responsible for the coordination of the skilled-volunteering data science projects which are at the core of CorrelAid’s work. In addition, she organizes educational events and workshops.
+Frie has a background in social science but transitioned to data science after her Bachelor’s degree and worked in IT consulting for two years. She loves to juggle and visualize data in R and likes to automate all kinds of things using her other programming skills.
 
 
-:alarm_clock: 5PM - 7PM (GMT+1)
+:alarm_clock: 6PM - 7PM (GMT+1)
 
 :round_pushpin: Zoom platform
 
-:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/275784778/) In order to attend the event, please fill out this [Google form](https://tinyurl.com/y3a9ac3l).
+:point_right: [Registration :](https://www.meetup.com/fr-FR/rladies-tunis/events/276303254) In order to attend the event, please fill out this [Google form](https://tinyurl.com/y4rbgau2).
 
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
-:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/275784778/)
+:point_right: [More details](https://www.meetup.com/fr-FR/rladies-tunis/events/276303254)
 
 ## Upcoming events
 
