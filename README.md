@@ -5,11 +5,11 @@
 
 We are pleased to invite you to our next meetup : Using R and a Raspberry Pi to automate social media data collection.
 
-Often when collecting data, we want to do so on a recurring basis. But how? Especially when starting out with (R) programming, this can be a complex challenge as sentences like "just set up a EC2 instance" are thrown at you without much context. In my talk, I will take you along my personal learning journey over the course of the past 3.5 years and three solution approaches: from a hacky R script on a Raspberry Pi (a mini computer) to a Python-solution in "the cloud" back to an improved R/Raspberry Pi version. In the process, I'll cycle back to fundamental tools/concepts like CRON that are central to automation.
+Often when collecting data, we want to do so on a recurring basis. But how? Especially when starting out with R programming, this can be a complex challenge as sentences like "just set up a EC2 instance" are thrown at you without much context. During this workshop, three solution approaches will be shown: from a hacky R script on a Raspberry Pi (a mini computer) to a Python-solution in "the cloud" back to an improved R/Raspberry Pi version.
 
 ▶️ Invited trainer : Friedrike Preu
 
-▶️ About Friedrike Preu is a data4gooder, data scientist and IT person. Right now, she is working full-time for Data4Good network CorrelAid for which she has been volunteering since its beginnings in 2015. There, she is responsible for the coordination of the skilled-volunteering data science projects which are at the core of CorrelAid’s work. In addition, she organizes educational events and workshops.
+▶️ About Friedrike Preu:  Frie is a data4gooder, data scientist and IT person. Actually, she is working full-time for Data4Good network CorrelAid for which she has been volunteering since its beginnings in 2015. There, she is responsible for the coordination of the skilled-volunteering data science projects which are at the core of CorrelAid’s work. In addition, she organizes educational events and workshops.
 Frie has a background in social science but transitioned to data science after her Bachelor’s degree and worked in IT consulting for two years. She loves to juggle and visualize data in R and likes to automate all kinds of things using her other programming skills.
 
 
@@ -27,7 +27,7 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| February 20, 2021 | 6PM - 7PM | Using R and a Raspberry Pi to automate social media data collection | Workshop | [Friedrike Preu]| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) |Zoom | will be provided  
+| February 20, 2021 | 6PM - 7PM | Using R and a Raspberry Pi to automate social media data collection | Workshop | Friedrike Preu| [Haifa Ben Messaoud](https://www.linkedin.com/in/haifa-ben-messaoud-74294882/) |Zoom | will be provided  
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
